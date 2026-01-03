@@ -3,7 +3,7 @@
 My solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Built with pure HTML and CSS (mobile-first approach).
 
 ## Live Demo
-[View Live Site](https://marc-techdev.github.io/frontend-mentor-blog-preview-card-main/)
+[View Live Site](https://marc-techdev.github.io/blog-preview-card-main/)
 
 ## Built With
 - HTML5
